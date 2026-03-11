@@ -1,4 +1,4 @@
-# ExcelIA_TuNombre_Certificacion
+# ExcelIA_SAMUEL ARDILA
 
 Proyecto de certificación de Excel con IA basado en un caso académico de ventas mensuales y proyección del próximo trimestre.
 
@@ -10,14 +10,6 @@ Proyecto de certificación de Excel con IA basado en un caso académico de venta
 - Valor proyectado máximo: **$447,393**
 - Categoría líder: **Tecnología**
 - Región líder: **Norte**
-
-## Contenido del repositorio
-- `ExcelIA_TuNombre_Certificacion.xlsx` -> archivo funcional con datos, limpieza, dashboard, pronóstico y documentación.
-- `Informe_Certificacion_ExcelIA.docx` -> informe editable.
-- `Informe_Certificacion_ExcelIA.pdf` -> versión en PDF del informe.
-- `Guion_Video_3a5min.txt` -> libreto exacto para grabar la presentación.
-- `Texto_para_EanX.txt` -> texto breve para pegar en la plataforma.
-- `Pasos_GitHub_y_EanX.txt` -> checklist final de subida.
 
 ## Estructura del Excel
 1. **Portada**
@@ -46,5 +38,5 @@ La IA se utilizó como apoyo para:
 La IA fue usada como apoyo y no como sustituto de la validación humana. Las fórmulas y la interpretación final fueron revisadas manualmente.
 
 ## Enlace del video
-Reemplaza este texto por tu enlace público:
-`[Pega aquí tu enlace de YouTube, Drive o video subido]`
+https://drive.google.com/file/d/1k27ODHfT0r3ryeRp5IWefge60wghFgZu/view?usp=sharing
+
